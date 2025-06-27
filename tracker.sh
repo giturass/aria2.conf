@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/bash
 #
 # https://github.com/P3TERX/aria2.conf
 # File name：tracker.sh
