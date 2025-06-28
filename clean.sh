@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 CONFIG_FILE="/data/data/com.termux/files/home/aria2/aria2.conf"
 
